@@ -1,0 +1,86 @@
+K:\C#\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe.config
+K:\C#\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe
+K:\C#\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.pdb
+K:\C#\ManagerStudentApp\ManagerStudentApp\bin\Debug\Guna.UI2.dll
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.AssemblyReference.cache
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.Properties.Resources.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.GenerateResource.cache
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CoreCompileInputs.cache
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CopyComplete
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.exe
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.pdb
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.frmLogin.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmMain.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateStudent.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_Dashboard.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListStudent.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEdit.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateInstructor.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListInstructor.resources
+K:\C#\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.frmEditInstructor.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.AssemblyReference.cache
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEdit.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.frmLogin.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.Properties.Resources.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmMain.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateInstructor.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateStudent.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_Dashboard.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListInstructor.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.GenerateResource.cache
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.exe
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.pdb
+E:\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe.config
+E:\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe
+E:\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.pdb
+E:\ManagerStudentApp\ManagerStudentApp\bin\Debug\Guna.UI2.dll
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListStudent.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CoreCompileInputs.cache
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CopyComplete
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEditInstuctor.resources
+E:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateClassroom.resources
+D:\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe.config
+D:\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe
+D:\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.pdb
+D:\ManagerStudentApp\ManagerStudentApp\bin\Debug\Guna.UI2.dll
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.AssemblyReference.cache
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEditInstuctor.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEdit.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.frmLogin.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.Properties.Resources.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmMain.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateClassroom.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateInstructor.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateStudent.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_Dashboard.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListInstructor.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListStudent.resources
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.GenerateResource.cache
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CoreCompileInputs.cache
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CopyComplete
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.exe
+D:\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.pdb
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.AssemblyReference.cache
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEditInstuctor.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmEdit.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.frmLogin.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.Properties.Resources.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.frmMain.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateClassroom.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateInstructor.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateStudent.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_Dashboard.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListInstructor.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ListStudent.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.GenerateResource.cache
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CoreCompileInputs.cache
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.exe
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.pdb
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe.config
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.exe
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\bin\Debug\ManagerStudentApp.pdb
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\bin\Debug\Guna.UI2.dll
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.csproj.CopyComplete
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_CreateCourse.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_AddScore.resources
+K:\C#\Đồ Án Tin Học\ManagerStudentApp\ManagerStudentApp\obj\Debug\ManagerStudentApp.View.Pages.UC_ViewScore.resources

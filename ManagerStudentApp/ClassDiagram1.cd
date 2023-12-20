@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ManagerStudentApp.Model.CAdmin" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CBaseClassroomCourse" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Model\CBaseClassroomCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CClassroom" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABIAAAAAAIA=</HashCode>
+      <FileName>Model\CClassroom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CCommon" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCIAAAAAAAAAEAAABAAAwAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CCourse" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAIAAgAAAEBAAAAAAAIAAgAAABAAIAAAAAAAA=</HashCode>
+      <FileName>Model\CCourse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CCurrentUser" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\CCurrentUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CGrade" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAQAAgAAAEAIJEAAAAAAAAAAAgAAQAAAAAAAA=</HashCode>
+      <FileName>Model\CGrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CInstuctor" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Model\CInstuctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CPerson" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAkAAAACAAAAGAAAAQIAAACAAAAAACAAAAoEAAABE=</HashCode>
+      <FileName>Model\CPerson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManagerStudentApp.Model.CStudent" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEACAAAAAAgUAAAQBAgAAAAAAAABAAACAAgAAAA=</HashCode>
+      <FileName>Model\CStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ManagerStudentApp.Model.Gender" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Model\CPerson.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ManagerStudentApp.Model.TypeUser" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Model\CPerson.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
